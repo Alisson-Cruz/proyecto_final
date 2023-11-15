@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "16168914725",
+    "project_id": "proyecto-final-f32a5",
+    "storage_bucket": "proyecto-final-f32a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16168914725:android:7dce2f037c41699f5c14cc",
+        "android_client_info": {
+          "package_name": "com.amvc.proyecto_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4-3n88j97AhiwJzh7OCBjW4DgFB5UE9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16168914725:android:39f86b21eeb66f925c14cc",
+        "android_client_info": {
+          "package_name": "com.amvc.tarea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4-3n88j97AhiwJzh7OCBjW4DgFB5UE9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
